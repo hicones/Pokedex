@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>PokeDex</title>
+  <link rel="stylesheet" href="./style.css" />
+  <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet" />
+  <link href="./fontawesome/css/all.css" rel="stylesheet">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Pokedex 1º Geração</h1>
+    <div class="nav">
+      <div class="search-box">
+        <input type="text" placeholder="Pesquise seu pokemon.." id="search-input">
+        <div class="search-icon">
+          <i class="fas fa-search"></i>
+        </div>
+        <div class="cancel-icon">
+          <i class="fas fa-times"></i>
+        </div>
+        <div class="search-data">
+        </div>
+      </div>
+      <div class="darkmode">
+        <input type="checkbox" class="checkbox" id="chk" />
+        <label class="label" for="chk">
+            <i class="fas fa-moon"></i>
+            <i class="fas fa-sun"></i>
+            <div class="ball"></div>
+         </label>
+      </div>
+    </div>
+    <ul data-js="pokedex" class="pokedex"></ul>
+  </div>
+  
+  <script src="./app.js"></script>
+</body>
+</html>

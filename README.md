@@ -28,5 +28,5 @@ Pokedex based on PokeAPI
 <br>
 <h2>Links</h2>
 <hr>
-<p>Demonstration: <a href="https://mypokedexapp.netlify.app/">https://mypokedexapp.netlify.app/ </a></p>
-<p>Repo: <a href="https://github.com/devsfe/Pokedex-v1.0">https://github.com/hicones/Pokedex </a></p>
+<p>Demonstration: <a href="https://pokedex2021v1.netlify.app/">https://pokedex2021v1.netlify.app/ </a></p>
+<p>Repo: <a href="https://github.com/hicones/Pokedex">https://github.com/hicones/Pokedex </a></p>

@@ -13,6 +13,7 @@ Pokedex based on PokeAPI
 <p>Pokédex containing 150 Pokémons of the first generation, for those who played Fire Red, containing image, numbering and type of Pokémon and dark mode to make the project more cool
 .</p>
 <br>
+<p>!!The search button is still being developed to be able to filter more options, for now it is only visual</p>
 <h2>🚀 Technologies</h2>
 <hr>
 <p>This project was developed with the following technologies:</p>

@@ -5,7 +5,7 @@ Pokedex based on PokeAPI
 <h2>📷 Demonstration</h2>
 <hr>
 <p>
-    <img src="https://user-images.githubusercontent.com/58652794/107089277-215b5880-67dd-11eb-83df-ad5b59f4d6f3.gif">
+    <img src="https://user-images.githubusercontent.com/59674959/142284529-ff08d1ca-ca44-4bf4-95b1-ab5b65315a9a.gif">
 </p>
 <br>
 <h2>About</h2>
